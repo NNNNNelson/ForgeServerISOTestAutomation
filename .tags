@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+checkMounted	.\Linux\ISO_Test_Automation_Script\checkMounted.py	/^def checkMounted(diskNum):$/;"	f
+checkMounted	.\Linux\ISO_Test_Automation_Script\main.py	/^import checkMounted$/;"	i
+checkUnmounted	.\Linux\ISO_Test_Automation_Script\checkUnmounted.py	/^def checkUnmounted(diskNum):$/;"	f
+checkUnmounted	.\Linux\ISO_Test_Automation_Script\main.py	/^import checkUnmounted$/;"	i
+commands	.\Linux\ISO_Test_Automation_Script\checkMounted.py	/^import commands$/;"	i
+commands	.\Linux\ISO_Test_Automation_Script\checkUnmounted.py	/^import commands$/;"	i
+commands	.\Linux\ISO_Test_Automation_Script\compareISOAndCopyContent.py	/^import commands$/;"	i
+commands	.\Linux\ISO_Test_Automation_Script\copyToCopyPath.py	/^import commands$/;"	i
+commands	.\Linux\ISO_Test_Automation_Script\listCopyContent.py	/^import commands$/;"	i
+commands	.\Linux\ISO_Test_Automation_Script\listMountedContent.py	/^import commands$/;"	i
+commands	.\Linux\ISO_Test_Automation_Script\mount.py	/^import commands$/;"	i
+commands	.\Linux\ISO_Test_Automation_Script\removeISOCopiedFiles.py	/^import commands$/;"	i
+commands	.\Linux\ISO_Test_Automation_Script\unmount.py	/^import commands$/;"	i
+compareISOAndCopyContent	.\Linux\ISO_Test_Automation_Script\compareISOAndCopyContent.py	/^def compareISOAndCopyContent(diskNum):$/;"	f
+compareISOAndCopyContent	.\Linux\ISO_Test_Automation_Script\main.py	/^import compareISOAndCopyContent$/;"	i
+copyToCopyPath	.\Linux\ISO_Test_Automation_Script\copyToCopyPath.py	/^def copyToCopyPath(diskName):$/;"	f
+copyToCopyPath	.\Linux\ISO_Test_Automation_Script\main.py	/^import copyToCopyPath$/;"	i
+filecmp	.\Linux\ISO_Test_Automation_Script\compareISOAndCopyContent.py	/^import filecmp$/;"	i
+listCopyContent	.\Linux\ISO_Test_Automation_Script\listCopyContent.py	/^def listCopyContent(diskNum):$/;"	f
+listCopyContent	.\Linux\ISO_Test_Automation_Script\main.py	/^import listCopyContent$/;"	i
+listMountedContent	.\Linux\ISO_Test_Automation_Script\listMountedContent.py	/^def listMountedContent(diskNum):$/;"	f
+listMountedContent	.\Linux\ISO_Test_Automation_Script\main.py	/^import listMountedContent$/;"	i
+mount	.\Linux\ISO_Test_Automation_Script\main.py	/^import mount$/;"	i
+mount	.\Linux\ISO_Test_Automation_Script\mount.py	/^def mount(diskNum):$/;"	f
+printDividerLine	.\Linux\ISO_Test_Automation_Script\main.py	/^import printDividerLine$/;"	i
+printDividerLine	.\Linux\ISO_Test_Automation_Script\printDividerLine.py	/^def printDividerLine():$/;"	f
+printScenarioDivider	.\Linux\ISO_Test_Automation_Script\main.py	/^import printScenarioDivider$/;"	i
+printScenarioDivider	.\Linux\ISO_Test_Automation_Script\printScenarioDivider.py	/^def printScenarioDivider(scenarioTitle):$/;"	f
+removeISOCopiedFiles	.\Linux\ISO_Test_Automation_Script\main.py	/^import removeISOCopiedFiles$/;"	i
+removeISOCopiedFiles	.\Linux\ISO_Test_Automation_Script\removeISOCopiedFiles.py	/^def removeISOCopiedFiles(diskNum):$/;"	f
+unmount	.\Linux\ISO_Test_Automation_Script\main.py	/^import unmount$/;"	i
+unmount	.\Linux\ISO_Test_Automation_Script\unmount.py	/^def unmount(diskNum):$/;"	f
